@@ -7,4 +7,8 @@ FASES DEL PROYECTO
 
 FASE 1: ANALISIS EXPLORATORIO DE DATOS (EDA): 
   El dataset presenta variables no estructuradas y cierta redundancia entre columnas. ademas, se identifican problemas de calidad de datos, como valores nulos y formatos inconsistentes, lo que requiere un proceso de limpieza y transformacon previo al analisis.
-  
+
+ FASE 2: TRANSFORMACION DE LOS DATOS
+   en esta fase se llevaran a cabo las trasnformaciones necesarias para garantizar calidad y coherencia del conjunto de datos, se haran mediante las funciones de Python aplicadas al DataFrame. 
+   tras el proceso de transformacion , el dataset presenta una estructura consistente, con tipos de datos adecuados , valores categoricos normalizados y eliminacion de variables irrelevantes. se mantiene ciertos valores nulos en variables relacionadas con reseñas, al considerarse representativo de la ausencia de actividad
+   
